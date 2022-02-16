@@ -1,4 +1,6 @@
-### Hi there 👋
+### Developer 성장하는 개발자😎
+
+지능형 IoT 융합 SW전문가과정 2020.12.01 ~ 2021.05.03
 
 <!--
 **fpem3309/fpem3309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
