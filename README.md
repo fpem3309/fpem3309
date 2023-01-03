@@ -6,7 +6,7 @@
 ⚡ **email**&nbsp;&nbsp;&nbsp;fpem3309@gmail.com<br>
 ⚡ **portfolio** [https://www.notion.so/...](https://amethyst-week-7dd.notion.site/Developer-587f0e216b63447087ace3accabd8a17)<br>
 ⚡ **blog**&nbsp;&nbsp;&nbsp;https://fpem3309.tistory.com<br>
-⚡ **page**&nbsp;&nbsp;&nbsp;https://fpem3309.github.io<br>
+⚡ **page**&nbsp;&nbsp;&nbsp;<del>https://fpem3309.github.io</del><br>
 
 <!--
 **fpem3309/fpem3309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
