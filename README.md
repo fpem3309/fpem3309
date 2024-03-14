@@ -1,12 +1,11 @@
+<!--
 ## 김민관
 #### Web Developer
 
-> 지능형 IoT 융합 SW전문가과정 2020.12.01 ~ 2021.05.03
-
 ⚡ **email**&nbsp;&nbsp;&nbsp;fpem3309@gmail.com<br>
-⚡ **portfolio** [https://www.notion.so/...](https://amethyst-week-7dd.notion.site/Developer-587f0e216b63447087ace3accabd8a17)<br>
+⚡ **portfolio** &nbsp;[https://www.notion.so/...](https://amethyst-week-7dd.notion.site/Developer-587f0e216b63447087ace3accabd8a17)<br>
 ⚡ **blog**&nbsp;&nbsp;&nbsp;https://fpem3309.tistory.com<br>
-
+-->
 <!--
 **fpem3309/fpem3309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
